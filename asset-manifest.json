@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dapp-Auction/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Dapp-Auction/static/js/main.87598ad8.chunk.js",
+    "main.js.map": "/Dapp-Auction/static/js/main.87598ad8.chunk.js.map",
+    "runtime-main.js": "/Dapp-Auction/static/js/runtime-main.bdd05168.js",
+    "runtime-main.js.map": "/Dapp-Auction/static/js/runtime-main.bdd05168.js.map",
+    "static/js/2.8c23eab5.chunk.js": "/Dapp-Auction/static/js/2.8c23eab5.chunk.js",
+    "static/js/2.8c23eab5.chunk.js.map": "/Dapp-Auction/static/js/2.8c23eab5.chunk.js.map",
+    "index.html": "/Dapp-Auction/index.html",
+    "precache-manifest.2987a6c6dc65cd1735d01120328e099e.js": "/Dapp-Auction/precache-manifest.2987a6c6dc65cd1735d01120328e099e.js",
+    "service-worker.js": "/Dapp-Auction/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Dapp-Auction/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd05168.js",
+    "static/js/2.8c23eab5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.87598ad8.chunk.js"
+  ]
+}
